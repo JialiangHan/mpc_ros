@@ -17,7 +17,8 @@
 
 #ifndef MPC_H
 #define MPC_H
-
+#include "glog/logging.h"
+#include "gflags/gflags.h"
 #include <vector>
 #include <map>
 #include <Eigen/Core>

@@ -20,7 +20,8 @@
 #include <vector>
 #include <map>
 #include <Eigen/Core>
-
+#include "glog/logging.h"
+#include "gflags/gflags.h"
 using namespace std;
 
 class MPC

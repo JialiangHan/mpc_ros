@@ -59,7 +59,8 @@
 #include <fstream>
 #include <Eigen/QR>
 //#include <ackermann_msgs/AckermannDriveStamped.h>
-
+#include "glog/logging.h"
+#include "gflags/gflags.h"
 
 using namespace std;
 

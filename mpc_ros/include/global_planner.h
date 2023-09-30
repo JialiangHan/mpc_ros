@@ -23,7 +23,8 @@
 #include <iostream>
 #include <fstream>
 #include <string>
-
+#include "glog/logging.h"
+#include "gflags/gflags.h"
  using std::string;
 
  #ifndef GLOBAL_PLANNER_CPP
